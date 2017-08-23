@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectLogIn</string>
+    <string name="usr_name">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mail">E-Mail</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="create">Create Account</string>
+    <string name="back">Back</string>
+    <string name="txt_welcome">Welcome new entrants to the app.</string>
+</resources>
+
